@@ -9,7 +9,9 @@ Ninh2k1PTIT/Ninh2k1PTIT is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninh2k1PTIT&count_private=true&show_icons=true&theme=algolia&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninh2k1PTIT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">👋 Hi, I’m Nguyễn Tiến Hải Ninh</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninh2k1PTIT&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninh2k1PTIT&count_private=true&show_icons=true&theme=algolia&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
