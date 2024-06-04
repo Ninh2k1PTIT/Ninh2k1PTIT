@@ -13,5 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ninh2k1PTIT&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ninh2k1PTIT&count_private=true&show_icons=true&theme=algolia&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Ninh2k1PTIT/count.svg" /></td>
+  </tr>
+</table>
+
 
 
